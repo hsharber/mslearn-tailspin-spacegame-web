@@ -12,7 +12,7 @@ variables:
   dotnetSdkVersion: '3.1.100'
   SonarProjectKey: 'hsharber_mslearn-tailspin-spacegame-web'
   SonarProjectName: 'mslearn-tailspin-spacegame-web'
-  SonarOrganization: 'sonar.organization=space-game-web-0319'
+  SonarOrganization: 'space-game-web-0319'
 
 
 steps:
